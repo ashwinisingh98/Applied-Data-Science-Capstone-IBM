@@ -10,3 +10,5 @@ Therefore if we can accurately predict the likelihood of the first stage rocket 
 
 Dashboard link:
 [SpaceX_Dash_app](https://ashwinising2-8050.theiadocker-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/)
+Report pdf:
+[DS-Capstone-Presentation](https://github.com/ashwinisingh98/Applied-Data-Science-Capstone-IBM/blob/main/DS-Capstone-Presentation.pdf)
