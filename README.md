@@ -8,4 +8,5 @@ We are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket w
 
 Therefore if we can accurately predict the likelihood of the first stage rocket landing successfully, we can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup we have been hired by can make more informed bids against SpaceX for a rocket launch.
 
+Dashboard link:
 [SpaceX_Dash_app](https://ashwinising2-8050.theiadocker-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/)
