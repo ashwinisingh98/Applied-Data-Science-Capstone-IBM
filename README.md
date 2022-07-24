@@ -12,4 +12,4 @@ Dashboard link:
 [SpaceX_Dash_app](https://ashwinising2-8050.theiadocker-3-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai//)
 
 Report pdf:
-[DS-Capstone-Presentation](https://github.com/ashwinisingh98/Applied-Data-Science-Capstone-IBM/blob/main/DS-Capstone-Presentation.pdf)
+[DS-Capstone-Presentation](https://drive.google.com/file/d/1qjd8c9vW7zkb6aupsYNYwGHgUIG3ojFR/view?usp=sharing)
